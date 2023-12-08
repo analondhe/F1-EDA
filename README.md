@@ -1,5 +1,7 @@
 # Formula 1 EDA (Exploratory Data Analysis) Project
 
+![alt text](https://us.motorsport.com/f1/photos/?filters%5Bevent%5D%5B0%5D=277572#)
+
 ## Overview
 
 This repository contains an Exploratory Data Analysis (EDA) of the Formula 1 dataset. The dataset encompasses comprehensive information on Formula 1 races, drivers, constructors, qualifying sessions, circuits, lap times, pit stops, and championships. The data spans from the inception of Formula 1 in 1950 to the latest available information for the 2023 season.
