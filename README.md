@@ -1,4 +1,4 @@
-# 🏎️ Formula 1 EDA (Exploratory Data Analysis) Project 🏎️
+# 🏎️  Formula 1 EDA (Exploratory Data Analysis) Project  🏎️
 
 ## Overview
 
