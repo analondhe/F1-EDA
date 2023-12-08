@@ -1,6 +1,4 @@
-# Formula 1 EDA (Exploratory Data Analysis) Project
-
-![alt text](https://us.motorsport.com/f1/photos/?filters%5Bevent%5D%5B0%5D=277572#)
+# 🏎️ Formula 1 EDA (Exploratory Data Analysis) Project 🏎️
 
 ## Overview
 
